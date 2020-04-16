@@ -1,0 +1,17 @@
+https://www.softlandindia.co.in/apartment-management-system.php
+
+https://slideplayer.com/slide/5859695/
+
+https://code-projects.org/house-rental-management-system-in-php-with-source-code/
+
+https://freezone.live/online-user-registration-and-management-system-source-code-free-download-html-css-php-mysql/ (look n feel is gud for login/register/forgot pwd)
+
+https://www.goodfirms.co/blog/best-free-property-management-software-in-2019  (we will download source code and try to analyse the screens for db design)
+
+https://github.com/KCE/Java/issues/60 
+
+https://www.altexsoft.com/blog/travel/hotel-property-management-systems-products-and-features/
+
+https://slideplayer.com/slide/10363778/  (gud overview with sample screens though simple)
+
+https://www.br.freelancer.com/u/BISWAJITFUTURE/portfolio/Apartment-Management-System-4581784
